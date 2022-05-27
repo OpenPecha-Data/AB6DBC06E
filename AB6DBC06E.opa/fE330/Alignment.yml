@@ -1,0 +1,13 @@
+segment_sources:
+  IEE3F9B1F:
+    type: origin_type
+    relation: translation
+    language: bo
+  ID48EFF5D:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  423cff5033704939a8a14ebdb0d269d2:
+    IEE3F9B1F: d582585085e548ecaf163befccc8d647
+    ID48EFF5D: f01550b923d541d0bf033a4546971d1b
